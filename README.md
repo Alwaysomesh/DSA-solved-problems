@@ -2,6 +2,8 @@
 
 Welcome to the DSA Solved Problems repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems. The problems are organized into different categories for easy navigation.
 
+This repository is owned and managed by Somesh Kumar Singh.
+
 ## Introduction
 
 This repository is a collection of solved problems from various platforms like LeetCode, GeeksforGeeks, and others. Each problem is solved with optimal code and includes detailed comments to help you understand the solution.
