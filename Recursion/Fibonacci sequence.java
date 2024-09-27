@@ -52,6 +52,6 @@ Input: 5
 Output: Fibonacci sequence up to 5 terms: 0 1 1 2 3 
 
 Example 2:
-Input: 7
-Output: Fibonacci sequence up to 7 terms: 0 1 1 2 3 5 8
+Input: 6
+Output: Fibonacci sequence up to 7 terms: 0 1 1 2 3 5
 */
