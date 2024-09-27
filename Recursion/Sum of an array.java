@@ -52,19 +52,19 @@ Space Complexity: O(n)
 
 Example Input and Output:
 Input:
-Enter the number of elements in the array: 6
+Enter the number of elements in the array: 5
 Enter the elements of the array:
-2 5 6 8 9 12
+2 5 6 8 9
 
 Output:
-Sum of array elements: 42
+Sum of array elements: 30
 
 Input:
-Enter the number of elements in the array: 3
+Enter the number of elements in the array: 4
 Enter the elements of the array:
-1 2 3
+1 2 3 4
 
 Output:
-Sum of array elements: 6
+Sum of array elements: 10
 */
 
