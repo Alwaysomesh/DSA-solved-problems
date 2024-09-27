@@ -46,9 +46,9 @@ Space Complexity: O(n)
 - The function uses O(n) space for the call stack due to the recursive calls.
 
 Input and Output Examples:
-1. Input: "Hello, World!"
+1. Input: "Hello, World"
    Output: "Original String: Hello, World!"
-           "Reversed String: !dlroW ,olleH"
+           "Reversed String: dlroW ,olleH"
 
 2. Input: "Automata"
    Output: "Original String: Automata"
