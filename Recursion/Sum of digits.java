@@ -26,7 +26,7 @@ public class Que3 {
 /*
 Approach:
 1. The function SD(int num) is a recursive function that calculates the sum of digits of the given number.
-2. If the number is 0, the function returns 0 (base case).
+2. If the number is 0 the function returns 0 (base case).
 3. Otherwise, it adds the last digit of the number (num % 10) to the sum of digits of the remaining number (num / 10).
 4. This process continues until the number becomes 0.
 
