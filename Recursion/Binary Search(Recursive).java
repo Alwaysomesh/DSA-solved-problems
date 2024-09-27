@@ -70,9 +70,9 @@ Sample Input and Output:
 Input:
 5
 2 3 4 10 40
-10
+4
 Output:
-Element found at index 3
+Element found at index 2
 
 Input:
 5
