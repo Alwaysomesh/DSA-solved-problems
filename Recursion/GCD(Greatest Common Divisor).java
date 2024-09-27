@@ -40,7 +40,7 @@ Approach:
 4. The recursive case involves calling the GCD method with the second number and the remainder of the first number divided by the second number.
 
 Time Complexity:
-- The time complexity of the GCD algorithm (Euclidean algorithm) is O(log(min(n1, n2))), where n1 and n2 are the input numbers.
+- The time complexity of the GCD algorithm (Euclidean algorithm) is O(log(min(n1, n2))) where n1 and n2 are the input numbers.
 
 Space Complexity:
 - The space complexity is O(log(min(n1, n2))) due to the recursion stack.
