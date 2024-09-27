@@ -52,7 +52,7 @@ Example Inputs and Outputs:
 Input: base = 3, exponent = 4
 Output: 3^4 = 81
 
-Input: base = 2, exponent = 5
-Output: 2^5 = 32
+Input: base = 2, exponent = 3
+Output: 2^3 = 8
 */
 
