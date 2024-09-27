@@ -37,7 +37,7 @@ public class Que10 {
 
 /*
 Approach:
-1. If there's only one disk, move it directly from the source rod to the destination rod.
+1. If there's only one disk move it directly from the source rod to the destination rod.
 2. Recursively move the top n-1 disks from the source rod to the auxiliary rod.
 3. Move the nth disk from the source rod to the destination rod.
 4. Recursively move the n-1 disks from the auxiliary rod to the destination rod.
