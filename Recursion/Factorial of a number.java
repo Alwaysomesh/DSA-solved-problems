@@ -48,7 +48,7 @@ Example Inputs and Outputs:
 Input: 5
 Output: Factorial of 5 = 120
 
-Input: 7
-Output: Factorial of 7 = 5040
+Input: 6
+Output: Factorial of 7 = 720
 */
 
