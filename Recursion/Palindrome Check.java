@@ -46,8 +46,8 @@ Space Complexity: O(n)
 - The space complexity is due to the recursion stack. In the worst case, the depth of the recursion is equal to the length of the string.
 
 Example Input and Output:
-1. Input: "madam"
-   Output: "madam is a palindrome."
+1. Input: "lol"
+   Output: "lol is a palindrome."
 
 2. Input: "hello"
    Output: "hello is not a palindrome."
