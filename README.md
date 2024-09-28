@@ -20,7 +20,7 @@ Each folder contains multiple solved problems. The structure of solution is as f
 
 1. Question
 2. Main class
-3. Approach
-4. Time Complexity
-5. Space Complexity
-6. Sample Input/Output
+3. Sample Input/Output
+4. Approach
+5. Time Complexity
+6. Space Complexity
