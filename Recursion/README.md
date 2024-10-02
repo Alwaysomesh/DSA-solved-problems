@@ -218,3 +218,7 @@ Given a knapsack with infinite capacity and a set of items, each with a specific
 <h3 align="left">Problem 49:</h3>
 Given a string s and a dictionary of words wordDict, determine if s can be segmented into a space-separated sequence of one or more dictionary words.<br>
 <a href="https://github.com/Alwaysomesh/DSA-solved-problems/blob/main/Recursion/Word%20Break%20Problem.java">Click here to see the code</a>
+
+<h3 align="left">Problem 50:</h3>
+Given two strings, s1 and s2, the task is to compute the minimum number of operations required to convert s1 into s2 using three allowed operations: insert a character, remove a character, or replace a character.<br>
+<a href="https://github.com/Alwaysomesh/DSA-solved-problems/blob/main/Recursion/Word%20Break%20Problem.java">Click here to see the code</a>
