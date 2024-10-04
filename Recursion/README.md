@@ -14,7 +14,7 @@ Given a set of items, each with a weight and a value, determine the maximum valu
 <a href="https://github.com/Alwaysomesh/DSA-solved-problems/blob/main/Recursion/Bounded%20Knapsack%2001.java">Click here to see the code</a>
 
 <h3 align="left">Problem 04:</h3>
-Write a program to check if a given number is prime using recursion. The program should prompt the user to enter a number and then determine if the number is prime by recursively checking its divisors. If the number is prime, the program should print that the number is a prime number; otherwise, it should print that the number is not a prime number.<br>
+Given two integers ( X ) and ( N ), determine the number of ways ( X ) can be expressed as the sum of the ( N )th powers of unique natural numbers.<br>
 <a href="https://github.com/Alwaysomesh/DSA-solved-problems/blob/main/Recursion/Check%20if%20a%20number%20is%20prime%20within%20the%20range.java">Click here to see the code</a>
 
 <h3 align="left">Problem 05:</h3>
