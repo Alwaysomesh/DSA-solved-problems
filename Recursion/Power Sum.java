@@ -1,4 +1,4 @@
-//The Power Sum
+//Power Sum
 
 import java.util.Scanner;
 
