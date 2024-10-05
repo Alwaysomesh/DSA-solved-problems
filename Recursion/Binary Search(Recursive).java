@@ -60,7 +60,7 @@ Approach:
 2. Compare the middle element with the target element.
 3. If the middle element is the target element return the middle index.
 4. If the target element is smaller than the middle element repeat the process for the left subarray.
-5. If the target element is larger than the middle element, repeat the process for the right subarray.
+5. If the target element is larger than the middle element repeat the process for the right subarray.
 6. If the element is not found, return -1.
 
 Time Complexity: O(log n) - The array is divided into half in each step.
