@@ -47,7 +47,7 @@ Approach:
 3. If `n` is less than or equal to 2 it returns true if n is 2 otherwise false.
 4. If `n` is divisible by `i` it returns false.
 5. If `i * i` is greater than `n` it returns true.
-6. Otherwise, it recursively checks the next divisor `i + 1`.
+6. Otherwise it recursively checks the next divisor `i + 1`.
 
 Time Complexity: O(√n)
 - The function checks divisors up to the square root of `n`.
