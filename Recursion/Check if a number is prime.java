@@ -44,7 +44,7 @@ public class Que37 {
 Approach:
 1. The `isPrime` method uses recursion to check if a number `n` is prime.
 2. It starts with the smallest divisor (i = 2) and checks divisibility.
-3. If `n` is less than or equal to 2, it returns true if n is 2, otherwise false.
+3. If `n` is less than or equal to 2, it returns true if n is 2 otherwise false.
 4. If `n` is divisible by `i`, it returns false.
 5. If `i * i` is greater than `n`, it returns true.
 6. Otherwise, it recursively checks the next divisor `i + 1`.
