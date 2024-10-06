@@ -1,6 +1,6 @@
 # DSA Solved Problems
 
-Welcome to the DSA Solved Problems repository This repository contains solutions to various Data Structures and Algorithms (DSA) problems. The problems are organized into different categories for easy navigation.
+Welcome to the DSA Solved Problems repository! This repository contains solutions to various Data Structures and Algorithms (DSA) problems. The problems are organized into different categories for easy navigation.
 
 This repository is owned and managed by Somesh Kumar Singh.
 
