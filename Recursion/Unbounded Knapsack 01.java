@@ -1,5 +1,6 @@
 // Unbounded Knapsack 0/1
 
+
 import java.util.Scanner;
 
 public class UnboundedKnapsack {
