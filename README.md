@@ -14,6 +14,7 @@ The repository is organized into the following folders:
 
 1. Recursion: Contains problems that are solved using recursion.
 2. Arrays:
+3. Linked List:
 
 ## Solution Structure
 
