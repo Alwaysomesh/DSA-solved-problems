@@ -1,5 +1,6 @@
 // Check if an array is sorted
 
+
 import java.util.Scanner;
 
 public class Que31 {
