@@ -1,5 +1,6 @@
 // Bounded Fractional Knapsack
 
+
 import java.util.Scanner;
 
 class Item {
