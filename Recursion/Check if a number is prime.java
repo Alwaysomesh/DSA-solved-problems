@@ -1,5 +1,6 @@
 // Check if a number is prime
 
+
 import java.util.Scanner;
 
 public class Que37 {
